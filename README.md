@@ -162,6 +162,8 @@ README.md                                 # Project documentation (this file)
 > **Screenshot:** 
 
 ![Customer Satisfaction UI Preview](page_preview.png)
+
+
 ![Customer Satisfaction UI Preview](page_preview2.png)
 
 
